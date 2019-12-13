@@ -1,8 +1,8 @@
 # some_scripts
 some useful and not so useful scripts/programs written by me :pain:
 
-## usages for some programs
-### passge.c
+## usage for some programs
+### passgen.c
 compile:
 ```
 gcc passgen.c -o passgen
