@@ -34,7 +34,7 @@ int main(int argc, char* argv[]) {
 
 	int pass_len = atoi(argv[1]);
 	if(pass_len < MIN_LEN || pass_len > MAX_LEN || pass_len == 0) {
-		fprintf(stderr, "Password lenght is integer between %d and %d.\n", MIN_LEN, MAX_LEN);	
+		fprintf(stderr, "Password length is integer between %d and %d.\n", MIN_LEN, MAX_LEN);	
 		exit(1);
 	}
 
