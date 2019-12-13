@@ -2,7 +2,7 @@
 #very simple wordlist generator
 import itertools as itr
 
-# comma separated words without spaces, example: test1,test2,test3,$,%,34
+# comma separated words without spaces, example: test1,test2,test3,$,%,34,5
 words = input(">>> ").split(",")
 # starting fixed word, if none leave empty and press enter
 fixedWord = input(">>> ")
