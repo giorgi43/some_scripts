@@ -2,7 +2,7 @@
 some useful and not so useful scripts/programs written by me :pain:
 
 ## usage for some programs
-### passgen.c
+### passgen
 compile:
 ```
 gcc passgen.c -o passgen
